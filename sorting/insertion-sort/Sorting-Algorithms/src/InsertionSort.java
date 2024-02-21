@@ -15,7 +15,7 @@ public class InsertionSort {
             while (j >= 0 && list.get(j) > key) {
                 
                 list.set(j + 1, list.get(j));
-                j = j - 1;
+                j--;
                 
             }
             list.set(j + 1, key); 
