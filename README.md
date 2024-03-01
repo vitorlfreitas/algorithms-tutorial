@@ -14,9 +14,9 @@ There is a plenty of algorithms already designed, there are algorithms to sort, 
 
 Learn these algorithms is a great idea, it will enhance your analytical skills and your solve-problems ability.
 
-# Advantages of learning algorithms
--> Well-designed
--> Solve problem accurately
+## Advantages of learning algorithms
+- Well-designed
+- Solve problem accurately
 
 # Types of Algorithms
 1. Sorting Algorithm
@@ -26,9 +26,9 @@ Learn these algorithms is a great idea, it will enhance your analytical skills a
 5. Dynamic Programming 
 6. Recursive Algorithm
 7. Genetic Algorithm
-...and so
+...and so on
 
 
 It's quite impossible to say how many algorithms is available, we also can create our own algorithms, or customize the ones built-in.
 
-Let's Start
+Let's Start!!
